@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 int n,r,sum=0;
-printf("enter the number to check its palindrome "); //change sentence (1)
+printf("to check palindrome number , enter a number "); //change sentence (1)
 scanf("%d",&n);
 while(n>0){
 r=n%10;
